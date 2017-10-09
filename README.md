@@ -6,7 +6,7 @@ This is the landing page for MSU Geography http://professional.ongeo.msu.edu
 * Webpack version 2, installed globally
 * node-sass version ^4.5.3, installed globally 
 
-#data
+# data
 
 * The path: "/src/data/languages.json" contains the translated text from english and chinese. 
 * Updates to this file need to be compiled with webpack
