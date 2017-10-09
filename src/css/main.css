@@ -1,0 +1,107 @@
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+html,
+body {
+    height: 100%;
+    padding: 0;
+}
+
+body {
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+}
+
+img {
+    max-width: 100%;
+}
+
+h1.seperate {
+    text-align: center;
+    padding: 3rem;
+}
+.jumbotron {
+    background: #222 url('../img/hero-3.jpg') center center no-repeat;
+    background-size: cover;
+    color: white;
+    height: 100%;
+    text-align: center;
+}
+
+.hero {
+    padding: 3rem 0;
+    margin: 2rem 0;
+    background-color:rgba(0, 0, 0, 0.5);
+}
+
+.reinforcement {
+    text-align: center;
+    padding: 3.5rem 2rem;
+    margin: 3rem 0;
+    color: #fff;
+}
+.closing {
+    text-align: center;
+    padding: 3.5rem 2rem;
+    color: #fff;
+}
+
+.bg-spartan {
+    background-color: #18453b;
+}
+a.btn-primary {
+      color: #ffffff;
+      background-color: rgba(199,160,42, 1);
+      border-color: rgba(199,160,42, 1);
+}
+a.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active{
+      background-color: rgba(199,160,42, 1);
+      border-color: #fff;
+}
+a.btn-outline-secondary {
+      color: #ffffff;
+      border-color: #fff;
+}
+
+.cta {
+    margin: 1.5rem .3rem;
+}
+.card-block {
+    background-color: #fafafa;
+}
+.use-case {    
+    padding: 6rem 0;
+    overflow: hidden;
+}
+.use-case-dark {
+    background: #535054;
+    color: white;
+}
+
+.use-case-dark h2 {
+    color: white;
+}
+
+.lead-form {
+    background-color: #e8d9b5;
+    border-radius: 6px;
+    padding: 2rem;
+}
+p.question {
+    font-size: 1.5rem;
+    line-height: 1.75rem;
+    font-weight: bold;
+    margin-top: 2.5rem;
+}
+#footer {    
+    text-align: center;
+    background-color: #18453b;
+    color: #fff;
+    padding: 1rem 0;
+    margin-top: 3rem;
+}
+
+.hero{
+    margin: 2rem auto;
+}

@@ -1,0 +1,671 @@
+{
+    "sections": [
+        {
+            "id": "navbar_main",
+            "elements": [
+                {
+                    "_data_text": "question",
+                    "eng": "Have a Question?",
+                    "chi": "有个问题？",
+                    "mark": null
+                }
+            ]
+        },
+        {
+            "id": "hero",
+            "elements": [
+                {
+                    "_data_text": "header",
+                    "eng": "Earn a Certificate in Geographic Information Systems (GIS)",
+                    "chi": "获取地理信息技术专业证书",
+                    "mark": null
+                },
+                {
+                    "_data_text": "lead",
+                    "eng": "Expand your career opportunities, add to your degree, or simply try something new with one of our four 7-week online courses in one of the fastest-growing technologies.",
+                    "chi": "通过学习我们四个在线课程获取地理信息技术证书可以增加您得到校内实习以及其它的就业机会，为您的学位锦上添花，并增加您在美国增长最快的技术领域之一的市场竞争力。",
+                    "mark": null
+                },
+                {
+                    "_data_text": "btn1",
+                    "eng": "Read Reviews",
+                    "chi": "阅读评论",
+                    "mark": null
+                },
+                {
+                    "_data_text": "btn2",
+                    "eng": "Get Enrolled",
+                    "chi": "报名注册",
+                    "mark": null
+                }
+            ]
+        },
+        {
+            "id": "info1",
+            "elements": [
+                {
+                    "_data_text": "para",
+                    "eng": "Our certificate in Geographic Information Systems (GIS) will develop your geographic awareness and geospatial technology skills, and expand career opportunities. Topics include geographic information, global positioning systems, graphic and map design, aerial image interpretation, and geospatial analysis, ethics, and trends.",
+                    "chi": "我们的地理信息技术证书将提升您的空间地理意识和地理信息技术技能，并扩大您的就业发展机会。 课程主要内容包括地理信息，全球定位系统，图形和地图设计，航空影像解读，地理空间分析，地理信息技术伦理和发展趋势。",
+                    "mark": null
+                },
+                {
+                    "_data_text": "header",
+                    "eng": "By completing this certificate, you'll be able to:",
+                    "chi": "通过完成此证书，您将能够：",
+                    "mark": null
+                },
+                {
+                    "_data_text": "li1",
+                    "eng": "Create maps to communicate geographic information",
+                    "chi": "创建地图以传达地理信息",
+                    "mark": null
+                },
+                {
+                    "_data_text": "li2",
+                    "eng": "Interpret aerial and satellite images",
+                    "chi": "解读航空和卫星图像",
+                    "mark": null
+                },
+                {
+                    "_data_text": "li3",
+                    "eng": "Use cutting-edge GIS software",
+                    "chi": "使用尖端的地信软件",
+                    "mark": null
+                },
+                {
+                    "_data_text": "li4",
+                    "eng": "Apply GIS analysis to real-world situations",
+                    "chi": "将地理信息分析应用于现实中",
+                    "mark": null
+                },
+                {
+                    "_data_text": "header2",
+                    "eng": "GIS Technology is used in thousands of careers:",
+                    "chi": "地理信息技术用于成千上万的职业：",
+                    "mark": null
+                }
+            ]
+        },
+        {
+            "id": "info-list1",
+            "elements": [
+                {
+                    "_data_text": "li1",
+                    "eng": "Precision Farming",
+                    "chi": "精准农业",
+                    "mark": null
+                },
+                {
+                    "_data_text": "li2",
+                    "eng": "Archaeology",
+                    "chi": "考古学",
+                    "mark": null
+                },
+                {
+                    "_data_text": "li3",
+                    "eng": "Architecture",
+                    "chi": "建筑",
+                    "mark": null
+                },
+                {
+                    "_data_text": "li4",
+                    "eng": "Urban &amp; Community Planning",
+                    "chi": "城市与社区规划",
+                    "mark": null
+                },
+                {
+                    "_data_text": "li5",
+                    "eng": "Natural Hazard &amp; Risk Management",
+                    "chi": "自然灾害与风险管理",
+                    "mark": null
+                }
+            ]
+        },
+        {
+            "id": "info-list2",
+            "elements": [
+                {
+                    "_data_text": "li1",
+                    "eng": "App Development / Computer Science",
+                    "chi": "应用开发/计算机科学",
+                    "mark": null
+                },
+                {
+                    "_data_text": "li2",
+                    "eng": "Self-driving Cars",
+                    "chi": "自驾车",
+                    "mark": null
+                },
+                {
+                    "_data_text": "li3",
+                    "eng": "Criminal Intelligence / Crime Mapping",
+                    "chi": "刑事情报/犯罪制图",
+                    "mark": null
+                },
+                {
+                    "_data_text": "li4",
+                    "eng": "Civil and Environmental Engineering",
+                    "chi": "土木与环境工程",
+                    "mark": null
+                }
+            ]
+        },
+        {
+            "id": "info-list3",
+            "elements": [
+                {
+                    "_data_text": "li1",
+                    "eng": "Community Sustainability",
+                    "chi": "社区可持续发展",
+                    "mark": null
+                },
+                {
+                    "_data_text": "li2",
+                    "eng": "Earth Sciences",
+                    "chi": "地球科学",
+                    "mark": null
+                },
+                {
+                    "_data_text": "li3",
+                    "eng": "Transportation Sector",
+                    "chi": "交通运输部门",
+                    "mark": null
+                },
+                {
+                    "_data_text": "li4",
+                    "eng": "Oil &amp; Gas Industry",
+                    "chi": "石油和天然气工业",
+                    "mark": null
+                },
+                {
+                    "_data_text": "li5",
+                    "eng": "Utilities Industry",
+                    "chi": "公用事业",
+                    "mark": null
+                },
+                {
+                    "_data_text": "li6",
+                    "eng": "Public Health",
+                    "chi": "公共卫生",
+                    "mark": null
+                }
+            ]
+        },
+        {
+            "id": "form1",
+            "elements": [
+                {
+                    "_data_text": "h3",
+                    "eng": "Start Your Enrollment Today",
+                    "chi": "今天开始注册",
+                    "mark": null
+                },
+                {
+                    "_data_text": "h6",
+                    "eng": "An advisor will contact you to assist with enrollment",
+                    "chi": "我们的顾问将与您联系以帮您注册",
+                    "mark": null
+                }
+            ]
+        },
+        {
+            "id": "form1_handle_after",
+            "elements": [
+                {
+                    "_data_text": "c-0-5",
+                    "eng": "My Name Is:",
+                    "chi": "姓名:",
+                    "mark": null
+                },
+                {
+                    "_data_text": "c-1-4",
+                    "eng": "Email Me At:",
+                    "chi": "电邮:",
+                    "mark": null
+                },
+                {
+                    "_data_text": "c-2-3",
+                    "eng": "Call Me At:",
+                    "chi": "电话:",
+                    "mark": null
+                },
+                {
+                    "_data_text": "c-3-2",
+                    "eng": "I'm Interested In:",
+                    "chi": "我的兴趣:",
+                    "mark": null
+                },
+                {
+                    "_data_text": "c-submit-button",
+                    "eng": "Have an advisor contact me",
+                    "chi": "让顾问和我联系",
+                    "mark": null
+                }
+            ]
+        },
+        {
+            "id": "reinforcement",
+            "elements": [
+                {
+                    "_data_text": "header",
+                    "eng": "Learn the GIS technology used to power hundreds of thousands of the apps you love.",
+                    "chi": "学习被应用于数十万个您喜爱的应用程序中的地理信息技术。",
+                    "mark": null
+                }
+            ]
+        },
+        {
+            "id": "testimonials",
+            "elements": [
+                {
+                    "_data_text": "review",
+                    "eng": "Reviews of Our Program",
+                    "chi": "过去学生对我们证书课程的评论",
+                    "mark": null
+                },
+                {
+                    "_data_text": "q1",
+                    "eng": "This is the best online instruction vehicle I have ever encountered. Online instruction has distinct strengths and distinct weaknesses, but the onGEO crew at MSU have maximized the strengths and minimized the weaknesses into a truly noteworthy product",
+                    "chi": "这是我遇到的最好的在线课程。 在线教学具有明显的优势和明显的弱点，但MSU的onGEO团队通过最大限度地发挥在线的优势，并将弱点最小化的方式把地理信息技术证书课程做成了一个真正值得好评的产品",
+                    "mark": {
+                        "eng": "This is the best online instruction vehicle I have ever encountered.",
+                        "chi": "这是我遇到的最好的在线课程。"
+                    }
+                },
+                {
+                    "_data_text": "person-1",
+                    "eng": "Dr. James Padfield",
+                    "chi": "James Padfield博士",
+                    "mark": null
+                },
+                {
+                    "_data_text": "place-1",
+                    "eng": "Truman State University",
+                    "chi": "杜鲁门州立大学",
+                    "mark": null
+                },
+                {
+                    "_data_text": "q2",
+                    "eng": "Earlier this month I accepted a new job with the Texas Land Conservancy in Austin. I'm very excited about the opportunity to grow in my career and transition into a land conservation organization, and I know that having the GIS professional certificate program on my resume and the knowledge base from our classes has played a large role in making me marketable for this job.",
+                    "chi": "本月初，我接受了在奥斯汀的得克萨斯州土地保护署的一项新工作。 我很高兴能有机会为一个土地保护组织工作并让我在职业生涯中成长，我知道我的简历上显示我通过MSU地理信息技术证书课程学到了知识并获得了证书，这使我能够得到这份工作发挥了重要作用。 ",
+                    "mark": {
+                        "eng": "having the GIS professional certificate program on my resume and the knowledge base from our classes has played a large role in making me marketable for this job.",
+                        "chi": "这使我能够得到这份工作发挥了重要作用。 "
+                    }
+                },
+                {
+                    "_data_text": "place-2",
+                    "eng": "Texas Land Conservancy",
+                    "chi": "德州土地保护署",
+                    "mark": null
+                },
+                {
+                    "_data_text": "q3",
+                    "eng": "I have found the first course very informative! It is all relatively new information for me, and I wasn't sure how \"into it\" I would be, but I found that I really enjoyed learning about geospatial technology and am looking forward to the remainder of the courses. In fact, I have been trying to \"sell\" the program to my husband for educator CE!",
+                    "chi": "我发现第一门课很让我增长知识！ 这些知识对我来说都是新的。 我不知道自己会不会愿意学，但我发现我非常喜欢学习地理信息技术，而且我期待着学完其余的课程。 事实上，我也一直在试图让我的先生也把证书课程当作持续教育的一部分来学。",
+                    "mark": {
+                        "eng": "I wasn't sure how \"into it\" I would be, but I found that I really enjoyed learning about geospatial technology",
+                        "chi": "但我发现我非常喜欢学习地理信息技术"
+                    }
+                },
+                {
+                    "_data_text": "place-3",
+                    "eng": "Master's Student",
+                    "chi": "硕士研究生",
+                    "mark": null
+                },
+                {
+                    "_data_text": "q4",
+                    "eng": "I have taken many online classes over the last couple of years, and this class was by far the most organized, thorough, and enjoyable class. There is a lot of material covered and it is presented in an engaging and thought provoking manner. There are many classes that should look to this class on how to run an online course.",
+                    "chi": "在过去的几年里，我已经参加了许多在线课程，这个课程是迄今为止最有组织，最全面，最令人愉快的课程。 课程的覆盖面很广，并以引人入胜的方式呈现给学生。这个课程值得很多大家学习如何运做在线课程。 ",
+                    "mark": {
+                        "eng": "There are many classes that should look to this class on how to run an online course.",
+                        "chi": "这个课程值得很多大家学习如何运做在线课程。"
+                    }
+                },
+                {
+                    "_data_text": "q5",
+                    "eng": "I am now being recognized by multiple teams at the corporation for my knowledge in ArcGIS. Teams are hounding my boss to allow me to do work for them!",
+                    "chi": "我们公司里多个团队现在都认识到我拥有地理信息技术及软件ArcGIS的技能和知识。他们都在要求我的老板让我为他们做工作！ ",
+                    "mark": {
+                        "eng": "Teams are hounding my boss to allow me to do work for them!",
+                        "chi": "他们都在要求我的老板让我为他们做工作！"
+                    }
+                },
+                {
+                    "_data_text": "place-5",
+                    "eng": "Michigan Economic Development Corporation",
+                    "chi": "密歇根州经济发展公司",
+                    "mark": null
+                },
+                {
+                    "_data_text": "q6",
+                    "eng": "Thank you so much for offering such a wonderful class. I have never learned so much in one class, and actually gained so many new things, skills in Geospatial technology, it's an amazing field.",
+                    "chi": "非常感谢你们提供这样一门棒极了的课。 我从来没有在一堂课上学到那么多东西，我实际上获得了如此多的新知识和地理信息技能，这是一个惊人的领域。",
+                    "mark": {
+                        "eng": "I have never learned so much in one class",
+                        "chi": "我从来没有在一堂课上学到那么多东西"
+                    }
+                },
+                {
+                    "_data_text": "place-6",
+                    "eng": "Consultant Geologist",
+                    "chi": "顾问地质学家",
+                    "mark": null
+                },
+                {
+                    "_data_text": "q7",
+                    "eng": "&ldquo;This course really helped guide me to what I want to pursue in my career in local government.&rdquo;",
+                    "chi": "&ldquo;这个课程真的有助于指导我在地方政府中谋求我的职业生涯。&rdquo;",
+                    "mark": null
+                }
+            ]
+        },
+        {
+            "id": "gis-everywhere",
+            "elements": [
+                {
+                    "_data_text": "header",
+                    "eng": "GIS Technology is Everywhere",
+                    "chi": "地理信息技术无处不在",
+                    "mark": null
+                },
+                {
+                    "_data_text": "p1",
+                    "eng": "Look familiar? Everytime you use an app that uses your location, you're using GIS.",
+                    "chi": "看着眼熟？ 每次您手机上的应用程序使用您的位置信息的时候，您都在使用地理信息系统。",
+                    "mark": null
+                },
+                {
+                    "_data_text": "p2",
+                    "eng": "Apps like Uber, Waze, Pokemon Go, and Tinder rely heavily on GIS technology to power their location dependent experiences. In our courses, you'll get to dive into the technology behind these systems.",
+                    "chi": "像Uber，Waze，Pokemon Go和Tinder这样的应用程序在很大程度上依赖于地理信息技术来支持他们给予用户的与位置信息相关的体验。 在我们的课程中，您将深入了解这些系统背后的地理信息技术。",
+                    "mark": null
+                },
+                {
+                    "_data_text": "p3",
+                    "eng": "Don't worry, you don't need to be an application developer or geography stud to take our certificate classes. Our courses are designed for everyone.",
+                    "chi": "不要担心，您不需要成为一名应用程序开发人员或地理学专业人员来完成我们的证书课程。 我们的课程是为每个人设计的。",
+                    "mark": null
+                },
+                {
+                    "_data_text": "learnmore",
+                    "eng": "Learn More",
+                    "chi": "学到更多",
+                    "mark": null
+                }
+            ]
+        },
+        {
+            "id": "opportunities",
+            "elements": [
+                {
+                    "_data_text": "header",
+                    "eng": "Thousands of Opportunities",
+                    "chi": "成千上万的机会",
+                    "mark": null
+                },
+                {
+                    "_data_text": "p1",
+                    "eng": "Revamp your current career, earn continuing-education credits, or simply learn new and marketable skills.",
+                    "chi": "改进您目前的职业生涯，获得持续教育学分，或者只是学习新的市场需要的技能。",
+                    "mark": null
+                },
+                {
+                    "_data_text": "p2",
+                    "eng": "Did you know that geospatial technologies are widely used in many industries, including academic departments and research institutes on campuses nationwide? Earning a Professional Certificate in GIS could open the door to many opportunities in fields such as academics, business, transportation, public health, and natural resource and environmental management, and give you the edge you need to land the internship or job you desire!",
+                    "chi": "您知道地理空间技术广泛应用于许多行业，包括全美各大校园的学术部门和研究机构？获得GIS专业证书可以为学术，企业，交通，公共卫生，自然资源和环境管理等领域的许多机会敞开大门，并为您提供获得您想要的实习或工作机会所需的优势！",
+                    "mark": null
+                }
+            ]
+        },
+        {
+            "id": "closing",
+            "elements": [
+                {
+                    "_data_text": "header",
+                    "eng": "Launch your new adventure in GIS today.",
+                    "chi": "今天就启动您在地理信息技术领域的探险吧",
+                    "mark": null
+                },
+                {
+                    "_data_text": "btn1",
+                    "eng": "Contact Us",
+                    "chi": "联系我们",
+                    "mark": null
+                },
+                {
+                    "_data_text": "btn2",
+                    "eng": "Get Enrolled",
+                    "chi": "报名注册",
+                    "mark": null
+                }
+            ]
+        },
+        {
+            "id": "faq",
+            "elements": [
+                {
+                    "_data_text": "header1",
+                    "eng": "Have a Question?",
+                    "chi": "有个问题？",
+                    "mark": null
+                }
+            ]
+        },
+        {
+            "id": "faq-left",
+            "elements": [
+                {
+                    "_data_text": "qh1",
+                    "eng": "How many classes do I need for the Professional Certificate in GIS?",
+                    "chi": "为了获取地理信息技术证书我需要修几门课？",
+                    "mark": null
+                },
+                {
+                    "_data_text": "p1",
+                    "eng": "The certificate consists of four fully online courses that are each delivered in 7-week sessions. This means that a certificate can easily be earned in two semesters (if courses are taken one at a time) or faster (if courses are taken concurrently).",
+                    "chi": "该证书由以下四门完全在线的课程组成，每门课程都需要七周时间。 这意味着您可以在两个学期（如果你一门一门上的话）或更快时间内（如果您同时修两门课的话）轻松获得证书。",
+                    "mark": null
+                },
+                {
+                    "_data_text": "oli1",
+                    "eng": "Introduction to Geospatial Technology",
+                    "chi": "地理信息技术入门",
+                    "mark": null
+                },
+                {
+                    "_data_text": "oli2",
+                    "eng": "Geographic Information Systems",
+                    "chi": "地理信息系统",
+                    "mark": null
+                },
+                {
+                    "_data_text": "oli3",
+                    "eng": "Remote Sensing",
+                    "chi": "遥感",
+                    "mark": null
+                },
+                {
+                    "_data_text": "oli4",
+                    "eng": "Cartography",
+                    "chi": "制图",
+                    "mark": null
+                },
+                {
+                    "_data_text": "qh2",
+                    "eng": "What kind of qualifications do I need for the certificate program?",
+                    "chi": "我需要什么样的资格才能上证书课程？",
+                    "mark": null
+                },
+                {
+                    "_data_text": "p2",
+                    "eng": "There are no qualification requirements or prerequisites for our certificate program.",
+                    "chi": "我们的证书课程没有任何资格要求或先决条件。",
+                    "mark": null
+                },
+                {
+                    "_data_text": "qh3",
+                    "eng": "Who should apply for this program?",
+                    "chi": "谁应该申请？",
+                    "mark": null
+                },
+                {
+                    "_data_text": "p3",
+                    "eng": "These courses and associated certificate are ideal for: (1) <strong>professionals</strong> currently working in fields that use geospatial technologies and pursuing training opportunities, (2) <strong>professionals and post-baccalaureates</strong> looking to advance or revamp their current career path, (3) <strong>teachers</strong> pursuing continuing education hours, and (4) <strong>international students</strong> seeking an educational experience and certification from an American university. You do not need to be an MSU student or alumnus to take our professional courses.",
+                    "chi": "地理信息技术课程和相关的证书是以下人士的理想选择：<ol><li>寻求美国大学的教育经验和证书的国际学生</li><li>目前在地理信息技术领域工作的专业人士寻求专业培训的机会</li><li>专业人士和近期毕业生寻找新的就业机会或改进他们目前的职业</li><li>希望加强研究能力和发展人才市场需要的技能的研究生</li><li>任何希望扩大自己在这一领域的知识的人士。</li></ol><small>（不需要是在校学生或校友）</small>",
+                    "mark": null
+                },
+                {
+                    "_data_text": "qh4",
+                    "eng": "Can I take more than one course at a time?",
+                    "chi": "我可以同时修多门课程吗？",
+                    "mark": null
+                },
+                {
+                    "_data_text": "p4",
+                    "eng": "Yes. Many students take two courses at a time. If you would like to pursue this option, <a href=\"mailto:ongeo@msu.edu?subject=Question%20About%20GIS%20Certification\">email us</a> to determine the best sequence of courses for you.",
+                    "chi": "可以。 许多学生同时修两门课程。 如果您想这样，<a href=\"mailto:ongeo@msu.edu?subject=Question%20About%20GIS%20Certification\">请通过电子邮件联系我们</a>以帮你确定最适合您的课程顺序。",
+                    "mark": null
+                },
+                {
+                    "_data_text": "qh5",
+                    "eng": "Want to talk to someone about the courses or certificate?",
+                    "chi": "想和我们谈谈课程或证书吗？",
+                    "mark": null
+                },
+                {
+                    "_data_text": "p5",
+                    "eng": "Email us at <a href=\"mailto:ongeo@msu.edu?subject=Question%20About%20GIS%20Certification\">onGEO@msu.edu</a>. We can talk to you via email or give you a call. Alternatively, you can give us a call at <a href=\"tel:5172587991\">517.258.7991</a>. We are happy to help you plan your entire certificate course sequence, choose the best class for you to start with, or answer your questions.",
+                    "chi": "请发送电子邮件至<a href=\"mailto:ongeo@msu.edu?subject=Question%20About%20GIS%20Certification\">onGEO@msu.edu</a> 。 我们可以通过电子邮件与您交谈，或者给您打电话。当然您也可以拨打电话<a href=\"tel:5172587991\">517.258.7991</a> 。 我们很乐意帮您计划整个证书课程的顺序，为您选好第一门课，或回答您的任何问题。",
+                    "mark": null
+                },
+                {
+                    "_data_text": "learnmore",
+                    "eng": "Learn More",
+                    "chi": "学到更多",
+                    "mark": null
+                }
+            ]
+        },
+        {
+            "id": "faq-right",
+            "elements": [
+                {
+                    "_data_text": "qh1",
+                    "eng": "When are the courses offered?",
+                    "chi": "课程都有哪些时间提供？",
+                    "mark": null
+                },
+                {
+                    "_data_text": "p1",
+                    "eng": "There are convenient entry points for our certificate courses (or program), with sessions beginning six times a year. The next session start dates are:",
+                    "chi": "我们的证书课程有便捷的切入点，每年都有六次。 本年度的开始日期是：",
+                    "mark": null
+                },
+                {
+                    "_data_text": "li1",
+                    "eng": "23 October 2017 (session 617)",
+                    "chi": "2017年10月23日（第617期）",
+                    "mark": null
+                },
+                {
+                    "_data_text": "li2",
+                    "eng": "8 January 2018 (session 118)",
+                    "chi": "1818年1月8日（第118期）",
+                    "mark": null
+                },
+                {
+                    "_data_text": "li3",
+                    "eng": "12 March 2018 (session 218)",
+                    "chi": "2018年3月12日（第218期）",
+                    "mark": null
+                },
+                {
+                    "_data_text": "li4",
+                    "eng": "14 May 2018 (session 318)",
+                    "chi": "2018年5月14日（第318期）",
+                    "mark": null
+                },
+                {
+                    "_data_text": "li5",
+                    "eng": "9 July 2018 (session 418)",
+                    "chi": "2018年7月9日（第418期）",
+                    "mark": null
+                },
+                {
+                    "_data_text": "li6",
+                    "eng": "27 August 2018 (session 518)",
+                    "chi": "1818年8月27日（第518期）",
+                    "mark": null
+                },
+                {
+                    "_data_text": "li7",
+                    "eng": "22 October 2018 (session 618)",
+                    "chi": "2018年10月22日（第618期）",
+                    "mark": null
+                },                
+                {
+                    "_data_text": "qh2",
+                    "eng": "What is the cost?",
+                    "chi": "学费是多少？",
+                    "mark": null
+                },
+                {
+                    "_data_text": "p2",
+                    "eng": "Each seven-week professional course costs <strong>$775</strong>.",
+                    "chi": "每门课的费用为<strong>775</strong>美元 。",
+                    "mark": null
+                },
+                {
+                    "_data_text": "qh3",
+                    "eng": "Do you offer financial aid?",
+                    "chi": "有奖学金或助学金吗？",
+                    "mark": null
+                },
+                {
+                    "_data_text": "p3",
+                    "eng": "<strong>No.</strong> Some of our past students, however, have received financial support from their employers.",
+                    "chi": "<strong>没有。</strong>不过，我们过去的一些学生得到了他们雇主的财政支持。",
+                    "mark": null
+                },
+                {
+                    "_data_text": "qh4",
+                    "eng": "Do you offer payment plans?",
+                    "chi": "我可以分期付款吗？",
+                    "mark": null
+                },
+                {
+                    "_data_text": "p4",
+                    "eng": "<strong>Yes.</strong> The payment plan is two (2) installments of $387.5 for one course (totaling $775).  If you would like to pursue a payment plan, please contact us before you register for a course, and we will work with you to implement the plan.",
+                    "chi": "<strong>可以。</strong>分期付款计划是每门课分二期付款，每次付387.5美元（共计775美元）。如果您想分期付款，请在您注册课程之前联系我们，我们将给您一起实施付款计划。",
+                    "mark": null
+                },
+                {
+                    "_data_text": "qh5",
+                    "eng": "Are discounts available?",
+                    "chi": "有折扣吗？",
+                    "mark": null
+                },
+                {
+                    "_data_text": "p5",
+                    "eng": "<strong>Yes!</strong> We offer discounts for current and former members of the military and alumni of the MSU Department of Geography, Environment, and Spatial Sciences. We also offer a refer-a-friend discount and a group discount for four or more students from the same organization taking a course. Finally, all students receive a $200 discount off of their final course in the certificate program. <a href=\"mailto:ongeo@msu.edu?subject=Question%20About%20GIS%20Certification\">Email us</a> for details about these discounts.",
+                    "chi": "<strong>有!</strong> 我们为密歇根州立大学地理，环境和空间科学系的现任成员及校友，还有军人提供折扣。 我们还提供推荐朋友的折扣和四人以上的团体折扣。 最后，所有学生都会拿到最后一门证书课程的200美元折扣。 请给我们发送<a href=\"mailto:ongeo@msu.edu?subject=Question%20About%20GIS%20Certification\">电邮</a>质询关于这些折扣的详细信息。",
+                    "mark": null
+                }
+            ]
+        },
+        {
+            "id": "footer",
+            "elements": [
+                {
+                    "_data_text": "copy",
+                    "eng": "&copy; 2017 Department of Geography, Environment, and Spatial Sciences at Michigan State University.",
+                    "chi": "&copy; 2017 密歇根州立大学地理，环境和空间科学系。",
+                    "mark": null
+                }
+            ]
+        }
+    ]
+}
