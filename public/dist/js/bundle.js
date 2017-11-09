@@ -24592,42 +24592,36 @@ module.exports = {
 				},
 				{
 					"_data_text": "li1",
-					"eng": "23 October 2017 (session 617)",
-					"chi": "2017年10月23日（第617期）",
-					"mark": null
-				},
-				{
-					"_data_text": "li2",
 					"eng": "8 January 2018 (session 118)",
 					"chi": "1818年1月8日（第118期）",
 					"mark": null
 				},
 				{
-					"_data_text": "li3",
+					"_data_text": "li2",
 					"eng": "12 March 2018 (session 218)",
 					"chi": "2018年3月12日（第218期）",
 					"mark": null
 				},
 				{
-					"_data_text": "li4",
+					"_data_text": "li3",
 					"eng": "14 May 2018 (session 318)",
 					"chi": "2018年5月14日（第318期）",
 					"mark": null
 				},
 				{
-					"_data_text": "li5",
+					"_data_text": "li4",
 					"eng": "9 July 2018 (session 418)",
 					"chi": "2018年7月9日（第418期）",
 					"mark": null
 				},
 				{
-					"_data_text": "li6",
+					"_data_text": "li5",
 					"eng": "27 August 2018 (session 518)",
 					"chi": "1818年8月27日（第518期）",
 					"mark": null
 				},
 				{
-					"_data_text": "li7",
+					"_data_text": "li6",
 					"eng": "22 October 2018 (session 618)",
 					"chi": "2018年10月22日（第618期）",
 					"mark": null
@@ -24664,8 +24658,8 @@ module.exports = {
 				},
 				{
 					"_data_text": "p4",
-					"eng": "<strong>Yes.</strong> The payment plan is two (2) installments of $387.5 for one course (totaling $775).  If you would like to pursue a payment plan, please contact us before you register for a course, and we will work with you to implement the plan.",
-					"chi": "<strong>可以。</strong>分期付款计划是每门课分二期付款，每次付387.5美元（共计775美元）。如果您想分期付款，请在您注册课程之前联系我们，我们将给您一起实施付款计划。",
+					"eng": "<strong>Yes.</strong> The payment plan is two (2) installments of $387.50 for one course (totaling $775).  If you would like to pursue a payment plan, please contact us before you register for a course, and we will work with you to implement the plan.",
+					"chi": "<strong>可以。</strong>分期付款计划是每门课分二期付款，每次付387.50美元（共计775美元）。如果您想分期付款，请在您注册课程之前联系我们，我们将给您一起实施付款计划。",
 					"mark": null
 				},
 				{
